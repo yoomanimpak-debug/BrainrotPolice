@@ -1,9 +1,16 @@
+-- Credits list
+-- All contributers must be creditted for what they have changed or modified.
+
 {
-    "Developer": [
+    "Developer/Owner": [
         "esore aka vaehz"
     ],
     "UI": [
         "esore aka vaehz"
+    ],
+        ],
+    "UI formatting": [
+        "Thedreamcoremovie (on YT)"
     ],
     "Contributors": [
         "__ven0x__",
